@@ -1,0 +1,15 @@
+[
+    {
+        "id" : "martin",
+        "name": "Martin Morici",
+        "step": "Entrevista Inicial",
+        "comments": "Hace lo que puede"
+    },
+    {
+        "id" : "goncy2",
+        "name": "Gonzalo Pozzo",
+        "step": "Asignación",
+        "comments": "Crack, ayuda a los devs"
+    }
+]
+
